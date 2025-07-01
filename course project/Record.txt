@@ -1,0 +1,9 @@
+
+
+PATIENT INFORMATION
+Name: ayesha 
+Age: 20
+Contact: 1286608853
+Address: scheme3
+Previous record: yes
+Last appointment: 16-06-21
